@@ -20,7 +20,9 @@ For development, the project is created using Visual Studio Code (VS Code). It i
 This portfolio project does not require any backend technology or database, making it lightweight and easy to deploy. It can be hosted on platforms like GitHub Pages or Netlify to make it accessible online. Despite its simplicity, it effectively demonstrates fundamental web development skills such as layout design, styling, and responsiveness.
 In conclusion, the Personal Portfolio Webpage is an important project for beginners and aspiring developers. It uses core frontend technologies like HTML and CSS and is developed using tools like Visual Studio Code. This project helps in understanding webpage structure, styling techniques, and responsive design. It also serves as a professional platform to showcase skills and projects, making it highly valuable for academic submissions and career growth.
 
+#OUTPUT
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0a8330fb-cdd7-416d-85bc-0742a2057e1c"/>
 
 
 
